@@ -117,7 +117,7 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-    "--compile-commands-dir=c:\\TI_Labor\\gitProjekte\\ITS-BRD-VSC\\Programs\\A1ASM\\out\\ASM-Projekt1ASM\\ITSboard_Assembly\\Debug"
+    "--compile-commands-dir=c:\\TI_Labor\\gitProjekte\\ITS-BRD-VSC\\Programs\\A3ASM\\out\\A3ASM\\ITSboard_Assembly\\Debug"
   ],
   "debug.hideSlowPreLaunchWarning": true,
   "debug.showInStatusBar": "never",

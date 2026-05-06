@@ -17,7 +17,7 @@ solution:
       target-set:
         - set:
           images:
-            - project-context: A2ASM.Debug
+            - project-context: A3ASM.Debug
 
   # List of different build configurations.
   build-types:
@@ -31,4 +31,4 @@ solution:
 
   # List related projects.
   projects:
-    - project: A2ASM.cproject.yml
+    - project: A3ASM.cproject.yml
